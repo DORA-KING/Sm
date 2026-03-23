@@ -41,5 +41,5 @@ module.exports = {
     },
     
     // Logo URL
-    logoUrl: process.env.LOGO_URL || 'https://i.ibb.co/MxqmJdqf/77560.jpg'
+    logoUrl: process.env.LOGO_URL || 'https://files.catbox.moe/mxj8zb.jpg'
 };
